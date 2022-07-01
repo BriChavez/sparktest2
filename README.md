@@ -1,45 +1,37 @@
+# _{Application Name}_
 
-## User Information
+#### By _**{List of contributors}**_
 
-This is the local ubuntu user on this machine. You can use the same user/pswd for using `sudo` commands.
+#### _{Brief description of application}_
 
-USER: fossa
+## Technologies Used
 
-PASSWORD: pithful-orfes
+* _List all_
+* _the major technologies_
+* _you used in your project_
+* _here_
 
+## Description
 
-## Installed Software
+_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
 
-Installed via `apt`:
+## Setup/Installation Requirements
 
-- Git
-- Google Cloud CLI (gcloud)
-- Docker
-- Python 3.7, 3.9
+* _This is a great place_
+* _to list setup instructions_
+* _in a simple_
+* _easy-to-understand_
+* _format_
 
-Following software are installed via `snap`:
+_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
 
-- VS Code
-- Slack
-- Discord
-- Spotify
-- Beekeeper Studio
-- Postman
+## Known Bugs
 
-Too see the current list execute:
+* _Any known issues_
+* _should go here_
 
-```bash
-sudo snap list
-```
+## License
 
-## Initial Things to Do
+_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
 
-When you first get this laptop, do the following:
-
-- Sign into Google Chrome and create your profile
-- Sign into Spotify
-- Sign into Discord (or Slack)
-- Initialize gcloud
-  - `gcloud init`
-- Install your favorite VS Code extensions
-
+Copyright (c) _date_ _author name(s)_
