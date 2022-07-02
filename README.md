@@ -1,38 +1,33 @@
-# _{Application Name}_
+# _PYSPARK PIPELINE_
 
-#### By _**{List of contributors}**_
+#### By _**BriChavez**_
 
-#### _{Brief description of application}_
+#### _Using Pyspark, this application will import a csv, clean it, and read to parquet_
 
 ## Technologies Used
 
-
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _Python_
+* _Pyspark_
+* _SparkSessions_
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_First we upload and read a csv. Then, using set specifications, we will set schema, add new columns, and query the data. Last we will write the new dataframe into a parquet file_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+* _Visit https://github.com/BriChavez/sparktest2_
+* _Using the terminal git remote clone the repo_
+* _Set up a virtual environment and pip install -r requirements.txt_
+* _Make a folder called data and run the code from set_up.sh while in it._
+* _Go back to the main directory and run python3.7 main.py 
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _None_
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_If you have any questions, comments, suggestions, feel free to reach out at brianchavez@gmail.com_
 
-Copyright (c) _date_ _author name(s)_
+Copyright (c) _June 2022_ _BriChavez_
