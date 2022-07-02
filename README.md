@@ -20,7 +20,7 @@ _First we upload and read a csv. Then, using set specifications, we will set sch
 * _Using the terminal git remote clone the repo_
 * _Set up a virtual environment and pip install -r requirements.txt_
 * _Make a folder called data and run the code from set_up.sh while in it._
-* _Go back to the main directory and run python3.7 main.py 
+* _Go back to the main directory and run python3.7 main.py_
 
 ## Known Bugs
 
